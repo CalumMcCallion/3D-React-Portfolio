@@ -11,6 +11,7 @@ import {
     year2,
     baeP,
     year1,
+    baeDI,
     reactjs,
     arbutus,
     redux,
@@ -179,7 +180,7 @@ import {
       name: "Ian Horlock",
       designation: "Managing Consultant",
       company: "BAE Systems",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+      image: baeDI,
     },
     {
       testimonial:
@@ -187,15 +188,15 @@ import {
       name: "Zoe Jeffers",
       designation: "Software Engineer",
       company: "BAE Systems",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+      image: baeDI,
     },
     {
       testimonial:
-        "Calum's excellent proactive attitude, willingness to learn, and eagerness to get involved have made him a valuable addition to the milkFloat team during his year-long industrial placement. Despite the challenging environment, Calum has leaned in and made the most of his experience. He has developed his software engineering skills, gaining familiarity with scripting languages like node.js and python, as well as AWS Cloud services and infrastructure-as-code.",
+      "During his year-long industrial placement, Calum's proactive attitude, eagerness to learn, and willingness to get involved made him a valuable addition to milkFloat's team. Despite challenges, he developed software engineering skills, working with scripting languages like node.js and python, as well as AWS Cloud services and infrastructure-as-code.",
       name: "Andy Smith",
       designation: "Solution Architect",
       company: "BAE Systems",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+      image: baeDI,
     },
   ];
   

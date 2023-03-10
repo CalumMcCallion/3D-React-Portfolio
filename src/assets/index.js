@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -10,6 +10,7 @@ import year1 from "./year1.png"
 import github from "./github.png";
 import baeP from "./baeP.png";
 import menu from "./menu.svg";
+import baeDI from "./baeDI.png"
 import close from "./close.svg";
 import ascot from "./ascot.png";
 import arbutus from "./arbutus.png";
@@ -42,6 +43,7 @@ export {
   backend,
   creator,
   year1,
+  baeDI,
   year2,
   arbutus,
   mobile,
