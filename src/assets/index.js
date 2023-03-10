@@ -3,10 +3,16 @@ import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
+import seagate from "./seagate.png";
+import year2 from "./year2.png";
+import bae from "./bae.png";
+import year1 from "./year1.png"
 import github from "./github.png";
+import baeP from "./baeP.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
-
+import ascot from "./ascot.png";
+import arbutus from "./arbutus.png";
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -31,13 +37,20 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  baeP,
   logo,
   backend,
   creator,
+  year1,
+  year2,
+  arbutus,
   mobile,
   web,
   github,
+  seagate,
+  bae,
   menu,
+  ascot,
   close,
   css,
   docker,
