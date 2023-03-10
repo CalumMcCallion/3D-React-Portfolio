@@ -20,7 +20,10 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             A CS student who develops user <br className='sm:block hidden' />
-            interfaces and web applications
+            interfaces and web applications<br className='sm:block hidden' />
+            <p className={`${styles.sectionSubText} mt-2 text-grey-100`}>
+            Don't be shy, give the 3D desk a spin!
+          </p>
           </p>
         </div>
       </div>
