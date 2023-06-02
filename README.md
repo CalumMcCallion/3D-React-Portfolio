@@ -4,8 +4,8 @@ This is a portfolio website built with React showcasing my skills, experience, a
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/portfolio.git`
-2. Navigate to the project directory: `cd portfolio`
+1. Clone the repository: `https://github.com/CalumMcCallion/3D-React-Portfolio.git`
+2. Navigate to the project directory: `cd ...`
 3. Install the dependencies: `npm install`
 
 ## Usage
