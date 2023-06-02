@@ -1,6 +1,6 @@
-# My React Portfolio
+# My 3D-React Portfolio
 
-This is a React portfolio website showcasing my skills, experience, and projects. The website includes various sections such as About, Experience, Tech Stack, Works, and Contact.
+This is a portfolio website built with React showcasing my skills, experience, and projects. The website includes various sections such as About, Experience, Tech Stack, Works, and Contact.
 
 ## Installation
 
