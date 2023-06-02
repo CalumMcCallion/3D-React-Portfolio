@@ -13,8 +13,9 @@ This is a portfolio website built with React showcasing my skills, experience, a
 To start the development server and view the website, run the following command:
 
 
-The website will be accessible at [http://localhost:3000](http://localhost:3000).
-Here is how it looks once deployed [https://calummcc.000webhostapp.com/](https://calummcc.000webhostapp.com/)
+- The website will be accessible at [http://localhost:3000](http://localhost:3000).
+
+- Here is how it looks once deployed [https://calummcc.000webhostapp.com/](https://calummcc.000webhostapp.com/).
 
 ## Dependencies
 
